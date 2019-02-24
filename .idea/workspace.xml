@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="374ecaa4-a5bb-46ab-8bb6-446f7d4165cc" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../server_test/server_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ClientSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientSession.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,20 +31,22 @@
     <session id="1407288180">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.70" value="1" />
           <entry key="project.open.time.77" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4407" />
+          <entry key="java" value="4618" />
           <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4407" />
+          <entry key="JAVA" value="4618" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
@@ -67,11 +69,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
+            <state relative-caret-position="646">
               <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1309#1322#0" />
               </folding>
             </state>
           </provider>
@@ -80,8 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ClientSession.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="116" column="10" selection-start-line="116" selection-start-column="10" selection-end-line="116" selection-end-column="10" />
+            <state relative-caret-position="255">
+              <caret line="15" column="69" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -115,42 +116,23 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="847" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-9" />
+    <option name="width" value="848" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="http_serv_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="http_serv_test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="http_serv_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="http_serv_test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550959477144" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550959601308" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -192,15 +174,16 @@
       <option name="presentableId" value="Default" />
       <updated>1550411800226</updated>
       <workItem from="1550411803295" duration="5640000" />
-      <workItem from="1550765861529" duration="6720000" />
+      <workItem from="1550765861529" duration="6966000" />
+      <workItem from="1551017521137" duration="686000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12360000" />
+    <option name="totallyTimeSpent" value="13292000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="677" height="830" extended-state="0" />
+    <frame x="-7" y="0" width="678" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="1.0" />
@@ -245,19 +228,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
+        <state relative-caret-position="646">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1309#1322#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ClientSession.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="116" column="10" selection-start-line="116" selection-start-column="10" selection-end-line="116" selection-end-column="10" />
+        <state relative-caret-position="255">
+          <caret line="15" column="69" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -11,6 +11,10 @@ import java.util.Date;
 
 //checking client response
 
+//КОД СЕССИИ КЛИЕНТА ВЗЯЛ СО СТОРОННЕГО САЙТА:
+//Он читает http запрос, адрес, и возвращает юзеру то, что лежит по адресу
+//парсинг json-post-get запросов реализую после твоего фидбека, Гошан
+
 public class ClientSession implements Runnable
 {
     private Socket socket;
