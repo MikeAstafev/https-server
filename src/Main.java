@@ -9,12 +9,12 @@ public class Main {
     public static void main(String[] args) throws Throwable
     {
         //try to create server with port '8080'
-        int port = 1337;
+        int port = 8080;
         ServerSocket server = null;
         //creating server socket on port 1337
         try
         {
-            server = new ServerSocket(port, 5);
+            server = new ServerSocket(port, 0, InetAddress.getByName("192.168.43.183"));
             System.out.println("Server started on port: " + server.getLocalPort() + "\n");
         }catch(IOException ex)
         {
